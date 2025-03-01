@@ -1,0 +1,4 @@
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov12_demo_dfl_open/install/rknn_yolo_demo_Linux/./rknn_yolo_demo
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov12_demo_dfl_open/install/rknn_yolo_demo_Linux/lib/librknnrt.so
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov12_demo_dfl_open/install/rknn_yolo_demo_Linux/lib/librga.so
+/home/firefly/zhangqian/rknn/rknpu2_1.4.0/examples/rknn_yolov12_demo_dfl_open/install/rknn_yolo_demo_Linux/.//model/RK3588/yolov12n_zq.rknn
