@@ -54,5 +54,8 @@ int main(int argc, char **argv)
 
 ![1740841045385](https://github.com/user-attachments/assets/29f2f7a2-c6e9-4141-adeb-1c02195ad7ee)
 
+这个时耗非常高，查看转rknn时的日志，很多操作切换到cpu上进行计算。
+
+![image](https://github.com/user-attachments/assets/7a4e6843-07ba-4657-b348-42b8fdcac912)
 
 
